@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "app_name",
+      "value": "HAP Setup Guide"
+    },
+    {
+      "name": "guide_title",
+      "value": "HAP SETUP GUIDE"
+    },
+    {
+      "name": "guide_subtitle",
+      "value": "Smart Wearable"
+    },
+    {
+      "name": "guide_description",
+      "value": "Learn to connect and install"
+    },
+    {
+      "name": "reset_checklist",
+      "value": "Reset checklist"
+    },
+    {
+      "name": "command_warning",
+      "value": "Commands run on your PC, not on the watch."
+    },
+    {
+      "name": "completed",
+      "value": "✓ Completed"
+    },
+    {
+      "name": "mark_completed",
+      "value": "Mark completed"
+    },
+    {
+      "name": "back",
+      "value": "‹ Back"
+    },
+    {
+      "name": "next",
+      "value": "Next ›"
+    },
+    {
+      "name": "all_chapters",
+      "value": "All chapters"
+    },
+    {
+      "name": "chapter_completion",
+      "value": "%d% checked"
+    },
+    {
+      "name": "command_card_title",
+      "value": "ON YOUR COMPUTER"
+    },
+    {
+      "name": "step_tip",
+      "value": "TIP"
+    }
+  ]
+}

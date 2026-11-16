@@ -1,0 +1,104 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "guide_description_color",
+      "value": "#BDCDD9"
+    },
+    {
+      "name": "completion_text_color",
+      "value": "#7ED8DB"
+    },
+    {
+      "name": "reset_button_color",
+      "value": "#334458"
+    },
+    {
+      "name": "command_warning_color",
+      "value": "#93A9BB"
+    },
+    {
+      "name": "completed_button_color",
+      "value": "#247E6F"
+    },
+    {
+      "name": "mark_completed_button_color",
+      "value": "#346F88"
+    },
+    {
+      "name": "back_button_color",
+      "value": "#394B60"
+    },
+    {
+      "name": "next_button_color",
+      "value": "#267C86"
+    },
+    {
+      "name": "all_chapters_button_color",
+      "value": "#243A50"
+    },
+    {
+      "name": "page_background_color",
+      "value": "#101E2D"
+    },
+    {
+      "name": "chapter_title_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "chapter_description_color",
+      "value": "#B6C5D2"
+    },
+    {
+      "name": "chapter_completion_color",
+      "value": "#75D5C5"
+    },
+    {
+      "name": "chapter_card_background",
+      "value": "#26384B"
+    },
+    {
+      "name": "command_card_title_color",
+      "value": "#70CFCF"
+    },
+    {
+      "name": "command_card_text_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "command_card_hint_color",
+      "value": "#AAB9C8"
+    },
+    {
+      "name": "command_card_background",
+      "value": "#182939"
+    },
+    {
+      "name": "step_title_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "step_summary_color",
+      "value": "#D1DFEC"
+    },
+    {
+      "name": "step_instruction_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "step_tip_title_color",
+      "value": "#E9CF8B"
+    },
+    {
+      "name": "step_tip_text_color",
+      "value": "#C3CBD4"
+    },
+    {
+      "name": "step_tip_background",
+      "value": "#283443"
+    }
+  ]
+}

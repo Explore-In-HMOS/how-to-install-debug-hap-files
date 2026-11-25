@@ -13,7 +13,7 @@ export class GuideRepository {
       'Use Windows or macOS supported by your DevEco Studio release.',
       'Check storage, network access, and a compatible HarmonyOS Smart Wearable.',
       '',
-      'Do not follow Lite Wearable deployment steps.'
+      'Do not follow SportWatch (Lite Wearable) deployment steps.'
     ),
     new GuideStep(
       1, 0, 'Environment',
